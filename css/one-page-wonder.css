@@ -27,7 +27,7 @@ h6 {
 }
 
 .bg-black {
-  background-color: #000 !important;
+  background-color: #d89279 !important;
 }
 
 .rounded-pill {
@@ -37,7 +37,7 @@ h6 {
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: #d89279;
 }
 
 .navbar-custom .navbar-brand {
@@ -59,7 +59,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background: linear-gradient(0deg, #f6d7c3 0%, #eee3dd 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -83,19 +83,19 @@ header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
   border-radius: 100%;
-  background: linear-gradient(0deg, #ee0979 0%, #ff6a00 100%);
+  background: linear-gradient(0deg, #f6d7c3 0%, #eee3dd 100%);
 }
 
 header.masthead .bg-circle-1 {
-  height: 90rem;
-  width: 90rem;
+  height: 100rem;
+  width: 100rem;
   bottom: -55rem;
   left: -55rem;
 }
 
 header.masthead .bg-circle-2 {
-  height: 50rem;
-  width: 50rem;
+  height: 100rem;
+  width: 100rem;
   top: -25rem;
   right: -25rem;
 }
@@ -128,17 +128,17 @@ header.masthead .bg-circle-4 {
 }
 
 .bg-primary {
-  background-color: #ee0979 !important;
+  background-color: #f6d7c3 !important;
 }
 
 .btn-primary {
-  background-color: #ee0979;
-  border-color: #ee0979;
+  background-color: #f6d7c3;
+  border-color: #f6d7c3;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #bd0760 !important;
-  border-color: #bd0760 !important;
+  background-color: #d89279 !important;
+  border-color: #d89279 !important;
 }
 
 .btn-primary:focus {
@@ -146,8 +146,8 @@ header.masthead .bg-circle-4 {
 }
 
 .btn-secondary {
-  background-color: #ff6a00;
-  border-color: #ff6a00;
+  background-color: #eee3dd;
+  border-color: #eee3dd;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
