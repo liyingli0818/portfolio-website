@@ -54,6 +54,10 @@ h6 {
   letter-spacing: 0.1rem;
 }
 
+.masthead-heading {color: #d89279}
+.masthead-subheading {color: #d89279}
+
+
 header.masthead {
   position: relative;
   overflow: hidden;
